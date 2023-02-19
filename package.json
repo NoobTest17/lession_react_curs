@@ -1,0 +1,23 @@
+{
+  "name": "test_packege",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoobTest17/lession_react_curs.git"
+  },
+  "author": "maxmig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoobTest17/lession_react_curs/issues"
+  },
+  "homepage": "https://github.com/NoobTest17/lession_react_curs#readme",
+  "devDependencies": {
+    "@types/lodash": "^4.14.191"
+  }
+}
