@@ -7,3 +7,8 @@ export const user = {
   age: 19
 }
 
+const are = 13;
+
+const seyHi = () => {
+
+}
